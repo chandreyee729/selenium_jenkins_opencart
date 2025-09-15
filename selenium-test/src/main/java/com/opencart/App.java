@@ -1,4 +1,4 @@
-package com.example;
+package com.opencart;
 
 /**
  * Hello world!

@@ -1,9 +1,8 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Selenium Suite" verbose="1">
-    <test name="All Tests">
+<suite name="SeleniumSuite" verbose="1">
+    <test name="OpenCart Tests">
         <packages>
-            <package name="com.example.tests"/>
-            <include name="OpencartLoginTest"/>
+            <package name="com.opencart.tests"/>
         </packages>
     </test>
 </suite>

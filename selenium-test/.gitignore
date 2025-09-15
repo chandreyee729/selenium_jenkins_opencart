@@ -1,0 +1,23 @@
+# Maven build
+target/
+
+# Log files
+*.log   
+
+# Reports
+reports/
+allure-results/
+allure-report/
+# Screenshots
+screenshots/
+
+
+# Driver binaries
+drivers/    
+*.exe
+*.zip
+*.tar.gz
+
+# VS Code settings
+.vscode/
+
